@@ -1,18 +1,11 @@
 ### @briri
 
-Hi, I'm Brian, a Rails developer currently working as the technical lead for the [DMPTool](https://dmptool.org), a site that helps researchers author data management plans, and the [DMPHub](https://github.com/CDLUC3/dmphub) which registers DMP IDs (persistent identifiers) for data management plans. I'm also a lead contributor to the [DMPRoadmap/roadmap](https://github.com/DMPRoadmap/roadmap) open source project (the basis of the DMPTool).
-
-
-[![briri's GitHub stats](https://github-readme-stats.vercel.app/api?username=briri&show_icons=true&theme=dark)](https://github.com/briri/github-readme-stats)
-
+Hi, I'm Brian, a programmer analyst currently working as the technical lead for the [DMPTool](https://dmptool.org), a site that helps researchers author data management plans, and the [DMPHub](https://github.com/CDLUC3/dmphub) which registers DMP IDs (persistent identifiers) for data management plans. 
 
 #### Languages
-I'm currently working with the following languages:
+🔭 I’m currently working with Ruby, Rails, React, DynamoDB, MySQL and the AWS stack using CloudFormation to manage infrastructure.
 
-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+🌱 I’m currently learning the concepts of LLMs and AI. I'm hoping to train an LLM so that it is focused on research data management and then integrate it into aspects of the systems I currently support.
 
 <!--
 **briri/briri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
